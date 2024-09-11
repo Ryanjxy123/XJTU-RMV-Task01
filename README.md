@@ -1,4 +1,4 @@
-# WSL安装步骤
+# WSL安装记录
 
 1.先启用“适用于 Linux 的 Windows 子系统”可选功能 -> 之后通过powershell中的命令行Linux发行版
 
