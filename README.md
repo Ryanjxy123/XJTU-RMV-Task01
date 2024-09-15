@@ -12,3 +12,6 @@ bug : 安装好后弹出编译框后显示错误，去搜索后发现windows未�
 之后将windows更新到最新版本并wsl成功下载后正常运行
 
 5.在ubantu中注册账户密码，并成功根据section1中讲解的内容install openCV和c++ 并install lib
+
+
+![安装成功截图](https://i.imgur.com/pa1dfr4.png)
